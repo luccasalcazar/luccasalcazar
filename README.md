@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning React and Flutter
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasalcazar&theme=default&show_icons=true)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasalcazar&theme=monokai&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasalcazar&layout=compact)
+
 <!--
 **luccasalcazar/luccasalcazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
