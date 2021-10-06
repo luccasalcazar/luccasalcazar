@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning React and Flutter
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=luccasalcazar&theme=monokai&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasalcazar&theme=monokai&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccasalcazar&theme=monokai&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **luccasalcazar/luccasalcazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
