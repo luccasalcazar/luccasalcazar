@@ -1,7 +1,5 @@
 ## Hi there, I'm Lucas 👋
 
-- 🔭 I’m currently working on Angular
-- 🌱 I’m currently learning React and Flutter
 <br>
 <a href="https://github.com/luccasalcazar">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=luccasalcazar&theme=monokai&show_icons=true&line_height=20&include_all_commits=true" />
