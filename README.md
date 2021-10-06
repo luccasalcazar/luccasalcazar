@@ -4,10 +4,10 @@
 - 🌱 I’m currently learning React and Flutter
 
 <a href="https://github.com/luccasalcazar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasalcazar&theme=monokai&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luccasalcazar&theme=monokai&show_icons=true&line_height=20" />
 </a>
 <a href="https://github.com/luccasalcazar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=luccasalcazar&theme=monokai&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccasalcazar&theme=monokai&layout=compact" />
 </a>
 
 <!--
